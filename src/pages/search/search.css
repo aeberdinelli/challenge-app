@@ -1,0 +1,7 @@
+.map-container {
+    height: 48vw;
+    width: 48vw;
+}
+.restaurant-row:hover, .restaurant-row-active {
+    background: #eee;
+}
