@@ -17,3 +17,8 @@
 - I've chosen not to use Redux or React Context to keep it as simple as possible, but they can be used if I needed to keep data between pages.
 - I use this structure when making small projects in React: `components` holding common components, `pages` where all of the pages are, and if I need a component that is only going to be used within one page, then I add it inside that page's folder. `services` contain the methods used to fetch data from the API.
 - Among other potential improvements, I would've added more try/catch sentences to prevent issues.
+
+## About me
+Check my other repos, I have some interesting stuff 🤓
+
+https://github.com/aeberdinelli
